@@ -1,5 +1,3 @@
-import { Condition } from '@/config/conditions';
-
 /**
  * 聊天流程管理
  * 控制對話的進行步驟
@@ -24,6 +22,8 @@ export interface ChatState {
   participantId: string;
   conditionId: number;
 }
+
+import { Condition } from '@/config/conditions';
 
 /**
  * 初始化聊天狀態
