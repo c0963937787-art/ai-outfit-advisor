@@ -30,7 +30,7 @@ const IndexPage: React.FC = () => {
           <div className="bg-blue-50 border-l-4 border-blue-500 p-4 rounded">
             <p className="text-sm text-blue-900">
               💡 <strong>提示：</strong>
-              请在安靜、舒適的環境中完成本調查。預計需要 5-10 分鐘。
+              請在安靜、舒適的環境中完成本調查。預計需要 5-10 分鐘。
             </p>
           </div>
         </div>
